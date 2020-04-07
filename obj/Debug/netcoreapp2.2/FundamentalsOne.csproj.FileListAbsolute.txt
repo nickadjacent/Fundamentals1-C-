@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/bin/Debug/netcoreapp2.2/FundamentalsOne.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/bin/Debug/netcoreapp2.2/FundamentalsOne.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/bin/Debug/netcoreapp2.2/FundamentalsOne.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/bin/Debug/netcoreapp2.2/FundamentalsOne.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/bin/Debug/netcoreapp2.2/FundamentalsOne.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/FundamentalsOne/obj/Debug/netcoreapp2.2/FundamentalsOne.pdb
